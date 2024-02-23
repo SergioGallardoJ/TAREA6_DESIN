@@ -13,7 +13,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.maven.main.MavenMain</mainClass>
+                            <mainClass>com.maven.Main.MainInterfaz</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
